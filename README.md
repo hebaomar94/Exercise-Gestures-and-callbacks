@@ -32,7 +32,8 @@ Hint: You will need a Boolean variable of some sort to accomplish this task.
 Task 2: Add a tap gesture method 
 Step 1: add a gesture to the Text element that allows you to toggle between the different color states your view uses.
 
-![image](https://github.com/hebaomar94/Exercise-Gestures-and-callbacks/assets/97067717/3ffe63d8-f238-44dc-9032-17ed8a0b4a71)
+![image](https://github.com/hebaomar94/Exercise-Gestures-and-callbacks/assets/97067717/31ab6569-f0ef-4a61-9c03-da27c96dcad9)
+
 
 
 
