@@ -34,6 +34,7 @@ Step 1: add a gesture to the Text element that allows you to toggle between the 
 
 ![image](https://github.com/hebaomar94/Exercise-Gestures-and-callbacks/assets/97067717/31ab6569-f0ef-4a61-9c03-da27c96dcad9)
 
+<img width="1440" alt="image" src="https://github.com/hebaomar94/Exercise-Gestures-and-callbacks/assets/97067717/8df01a5f-8e2a-4ba1-8b28-e37a9c1477eb">
 
 
 
